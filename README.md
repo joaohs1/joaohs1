@@ -1,4 +1,11 @@
-### Hi there 👋
+### 
+Formado em Engenharia Mecânica, estou em transição de carreira, cursando Bacharel em Ciência de Dados pela Univesp e, em paralelo, me aprofundando no mundo dos dados, com cursos e estudos direcionados, como:
+• Python;
+• SQL;
+• Estatisica;
+• Power BI;
+• Machine Learning.
+Através desses estudos e outros, tenho como objetivo futuro me tornar um Cientista de Dados, sabendo que para ser um profissional sólido e referência na área, a atualização e especialização devem ser contínuas.
 
 <!--
 **joaohs1/joaohs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
