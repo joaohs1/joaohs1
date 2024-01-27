@@ -21,9 +21,10 @@
   </p> 
 
 ###
-  <h2 align="left">Meu portifólio</h2>
+  <h2 align="left">Meu portifólio e artigos</h2>
 
- - [link](https://github.com/joaohs1/Portfolio)
+ - [Portifólio](https://github.com/joaohs1/Portfolio)
+ - [Artigos](https://medium.com/@JoaoHs)
    
 <h2 align="left">Redes</h2>
 <div style="display: inline_block">
