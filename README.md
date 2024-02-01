@@ -24,7 +24,7 @@
   <h2 align="left">Meu portifólio e artigos</h2>
 
  - [Portifólio](https://github.com/joaohs1/Portfolio)
- - [Artigos](https://medium.com/@JoaoHs)
+ - [Medium](https://medium.com/@JoaoHs)
    
 <h2 align="left">Redes</h2>
 <div style="display: inline_block">
