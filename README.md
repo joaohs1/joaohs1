@@ -3,7 +3,7 @@
 
 <h2 align="left">Sobre mim:</h2>
 
- - Sou Engenheiro mecânico e estou em transição de carreira, buscando oportunidade para ingressar na área de dados; 
+ - Sou Analista de dados no varejo e por aqui público meus estudos na área de dados; 
  - Atualmente cursando bacharelado em Ciência de Dados pela UNIVESP, e em paralelo seguindo a trilha de estudos do Clube da Universidade dos Dados e outros cursos relacionados;
 
 <h2 align="left"> Ferramentas: </h2>
